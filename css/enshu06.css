@@ -1,0 +1,16 @@
+h1{
+    color:#ff15ff;
+    font-size:60px;
+    font-weight:normal;
+    font-family:"Impact";
+    text-align:center;
+    background-color: #000000;
+}
+
+p{
+    background-color: #00ffff;
+}
+
+body{
+        background-image: url(../images/back2.jpg);
+}
