@@ -1,0 +1,20 @@
+h1{
+    color:white;
+    text-align:center;
+    background-color: blue;
+}
+h3{
+    text-align: center;
+    background-color: greenyellow;
+}
+table{
+    background-color: aqua;
+}
+ol{
+    background-image:url(../images/back2.jpg);
+    color:aliceblue;
+}
+body{
+    background-image: url(../images/aki_01.jpg);
+    background-position: center;
+}
