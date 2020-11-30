@@ -1,0 +1,21 @@
+h1{
+    color:white;
+    background:black;
+    text-align:center;
+}
+.sports{
+    background:aquamarine;
+    text-align:center;
+}
+.game{
+    color:blueviolet;
+    background:darkorange;
+    text-align:center;
+}
+h1#rinku{
+    color:darkorange;
+    background:darkgreen;
+}
+body{
+    background-image:url(../images/mokume-right.jpeg);
+}
