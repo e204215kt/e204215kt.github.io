@@ -1,0 +1,76 @@
+div.title{
+    width:1000px;
+    height:40px;
+    background-color:dimgray;
+    margin-bottom:20px;
+}
+
+div.ko{
+    width:1000px;
+    height:320px;
+    background-color:azure;
+    font-size:0;
+    margin-bottom:20px;
+}
+
+div.menu{
+    display:inline-block;
+    vertical-align: top;
+    width:250px;
+    height:320px;
+    background-color:dimgrey;
+}
+
+div.menu1{
+    width:250px;
+    height:100px;
+    background-color:red;
+    margin-bottom:10px;
+    font-size:15px;
+}
+
+div.menu2{
+    width:250px;
+    height:100px;
+    background-color:red;
+    margin-bottom:10px;
+    font-size:15px;
+}
+
+div.menu3{
+    width:250px;
+    height:100px;
+    background-color:red;
+    font-size:15px;
+}
+
+div.image{
+    display:inline-block;
+    vertical-align: top;
+    width:700px;
+    height:320px;
+    background-color:dimgrey;
+    margin-left: 50px;
+}
+
+div.gazou{
+    width:700px;
+    height:300px;
+    background-color:black;
+    color:white;
+    font-size:15px;
+}
+
+div.bunshou{
+    width:700px;
+    height:20px;
+    background-color:blue;
+    font-size:15px;
+}
+
+div.footer{
+    width:1000px;
+    height:40px;
+    background-color:darkorange;
+    text-align:right;
+}
